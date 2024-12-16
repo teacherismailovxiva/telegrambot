@@ -1,0 +1,2 @@
+fruits = []
+print(fruits)
